@@ -1,0 +1,121 @@
+table tr td div{
+    height: 32px;
+    width: 32px;
+}
+
+.currentColor {
+
+    width:64px;
+    height:64px;
+
+}
+
+td {
+    border : 2px black solid;
+}
+
+
+
+.reset{
+    background-color: white;
+}
+
+.color0{
+    background-color: aqua;
+}
+
+.color1{
+    background-color:aquamarine;
+}
+
+.color2{
+    background-color: bisque;
+}
+
+.color3{
+    background-color:burlywood;
+}
+
+.color4{
+    background-color:darkkhaki;
+}
+
+.color6{
+    background-color: mediumblue;
+}
+
+.color7{
+    background-color:mediumorchid;
+}
+
+.color8{
+    background-color: mediumpurple;
+}
+
+.color9{
+    background-color: mediumslateblue;
+}
+
+.color10{
+    background-color: mediumvioletred;
+}
+
+.caractColor0{
+
+    color: aqua;
+
+}
+
+.caractColor1{
+
+    color: aquamarine;;
+
+}
+
+.caractColor2{
+
+    color:  bisque;
+
+}
+
+.caractColor3{
+
+    color: burlywood;
+
+}
+
+.caractColor4{
+
+    color: darkkhaki;
+
+}
+
+.caractColor5{
+
+    color: mediumblue;
+
+}
+
+.caractColor6{
+
+    color: mediumorchid;
+
+}
+
+.caractColor7{
+
+    color: mediumpurple;
+
+}
+
+.caractColor8{
+
+    color: mediumslateblue;
+
+}
+
+.caractColor9{
+
+    color: mediumvioletred;
+
+}
